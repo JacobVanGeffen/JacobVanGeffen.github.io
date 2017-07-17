@@ -2,8 +2,7 @@ Brought up as a boy in a traditional, produly American household, I’ve played 
 
 When nothing else in life does, games make me feel like a champion. They remind me that success doesn’t come easy, but that’s no reason to stop throwing myself back at the problem. Contrary to popular belief, games motivate me to keep pushing in my research, my classes, and anything else that’s remotely difficult in my life. A lot of this motivation isn’t really so conscious or straightforward. I don’t normally pick up a game, beat up a few minions and say “Ya know what? Now, I really feel like I can ace all my tests, get into all the top grad schools, and become a millionaire.” That would be dumb. Instead, playing games works more like a massage for my agitated brain. I feel relaxed, optimistic, and blissfully ignorant of the gigantic mass of work I left waiting for me.
 
-![My helpful screenshot]({{ jacobvangeffen.github.io }}/images/titan-souls-mushroom.jpg)
-Can you spot the protagonist? (Hint: he doesn’t have giant, glowing eyes)
+{% include image.html url="{{ jacobvangeffen.github.io }}/images/titan-souls-mushroom.jpg" description="Can you spot the protagonist? (Hint: he doesn’t have giant, glowing eyes)" %}
 
 Lots of games will give you this sense of confidence and relief, but none quite like Titan Souls. As the protagonist of Titan Souls, you find yourself as a tiny 8-bit style body, with just one arrow. Somehow, you wound up in this mystical abandoned land and surprise! There are huge scary guys called titans. In the pursuit of power and/or badass-ery, you must slay all the titans with your one puny arrow. Also you always die in one hit. Good luck! 
 
