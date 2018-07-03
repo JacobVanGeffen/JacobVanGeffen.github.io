@@ -7,7 +7,7 @@ After a tearfully easy intro sequence, Mr. VG quickly finds himself at a crossro
 
 VG could only find solace in the SNES’s “reset” feature, allowing him to save any state in the game and restart from that point. With this godsend, VG pushed through the fiery level and knocked on Flame Mammoth’s door. And be sure — Flame Mammoth knocked back. The beast bounced in ferociously, bringing VG stunned to the ground. He fired back, but the puny pellets barely dented the demon's giant health pool. In fear, VG resorted to guerrilla warfare, making camp in the upper corner of the room. Sir Flame thought nothing of this, jumping at Mega and eliminating swaths of health with each leap. VG found himself pinned to a corner — the beast was too large to jump around! Even the reset feature couldn't save him here. Each attempt was met with the same outcome.
 
-![Mammoth]({{ jacobvangeffen.github.io }}/images/megamanx-mammoth.png)
+<p align="center">![Mammoth]({{ jacobvangeffen.github.io }}/images/megamanx-mammoth.png)</p>
 <p align="center">My painful predicament</p>
 
 Escape the level. Breath. Time to regroup. This was clearly a fluke, the remaining bosses surely weren't as impossible. Yet from catastrophic chameleon to maniacal mandrill, VG found no relenting foe. Downtrodden and defeated, our hero put up his controller and retired to playing smash with his scrubby roommate. Things didn’t look so bright for Mr. Mega.
@@ -22,7 +22,7 @@ After loading up two extra health tanks for the final showdown, VG hippity-hoppe
 
 “Wait, he isn’t dead!? SHIA SURPRISE!!” The immortal words of Rob Cantor rang in VG’s ears as Sigma’s head flew to the center of the room. Two spike hands descended on Mega, casting bolts of lightning past the fire-breathing head of Boston Dynamics’ latest creation. And like the prophecy proclaimed, our hero reset and Googled as far as the eye could see. He reset past the horny middle-aged man, past his somehow unadorable pupper. He Googled through all the upgrades, cheating his way to a huge health pool and 4 whole health tanks to boot. This man reset and Googled until the game was legitimately broken and Mr. Mega could basically never die. Then, and only then, did VG put our villain to rest and close the last chapter of our tale.
 
-![Sigma]({{ jacobvangeffen.github.io }}/images/megamanx-fox.png)
+<p align="center">![Sigma]({{ jacobvangeffen.github.io }}/images/megamanx-fox.jpg)</p>
 <p align="center">Big daddy meets Foxy mamma</p>
 
 <p align="center">* * *</p>
