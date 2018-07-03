@@ -27,6 +27,6 @@ After loading up two extra health tanks, VG hippity-hopped his way up to the fin
 
 <p align="center">* * *</p>
 
-There you have it. Not a story I’m proud to share, but a story nonetheless. I share this with the hopes that you will learn from my folley and just quit playing these ridiculous games. Go play Mario Kart against your younger brother; that’ll make you feel much better about yourself. Finally, if you take nothing else away from this tale remember this — I beat a 25-year-old game with extremely modern technology, and I couldn’t be prouder of myself.
+There you have it. Not a story I’m proud to share, but a story nonetheless. I share this with the hopes that you will learn from my folley and just quit playing these ridiculous games. Go play Mario Kart against your younger brother; that’ll make you feel much better about yourself. Finally, if you take nothing else away from this tale, remember this — I beat a 25-year-old game with extremely modern technology, and I couldn’t be prouder of myself.
 
 See you robot cowboy...
