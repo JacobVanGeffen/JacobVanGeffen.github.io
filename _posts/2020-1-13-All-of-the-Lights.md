@@ -1,7 +1,7 @@
 I fucking love the bosses in Hyper Light Drifter. Everything else is ok.
 
 Two years after buying this game, I finally started it on Friday and finished it yesterday (and tonight is Sunday night and I can't sleep rip). I'm hella slow at playing games, so me finishing this so fast is honestly saying something.
-Figuring out why I couldn't put HLD has been kinda tricky, but I think I've pinpointed it. Most obviously, the bosses and a few really challenging areas were where the game really shined, but for me, this doesn't explain why the game immediately gripped me, or why I had to finish the game on my second sitting. To explain these, I think the answer lies in HLD's framing.
+Figuring out why I couldn't put HLD down has been kinda tricky, but I think I've pinpointed it. Most obviously, the bosses and a few really challenging areas were where the game really shined, but for me, this doesn't explain why the game immediately gripped me, or why I had to finish the game on my second sitting. To explain these, I think the answer lies in HLD's framing.
 
 In contrast to the difficult rooms and boss fights HLD throws at you, most of the areas in HLD are stretched out. You can't always see what you'll encounter next. You have no idea how far you are from your target. But you really REALLY wanna get there ASAP. HLD makes you feel like you're hunting for that awesome boss fight, like you need to work to earn it. For me, this made me feel very similarly to how I feel about work.
 
